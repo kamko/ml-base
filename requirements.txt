@@ -3,7 +3,7 @@ attrs==19.3.0
 colorama==0.4.3
 joblib==0.14.1
 more-itertools==8.1.0
-numpy==1.18.1
+numpy==1.21.0
 packaging==20.0
 pandas==0.25.3
 pluggy==0.13.1
